@@ -1,0 +1,16 @@
+#pragma once
+
+#include "DXUT.h"
+#include "Singleton.h"
+#include "ObjectPool.h"
+#include "Scene.h"
+#include "Texture.h"
+#include "Time.h"
+#include "Input.h"
+#include "Types.h"
+#include "Application.h"
+#include "Animation.h"
+#include "Node.h"
+#include "Sprite.h"
+#include "Camera.h"
+#include "SoundPlayer.h"
